@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vonhatcuong&label=Profile%20views&color=0e75b6&style=flat" alt="vonhatcuong" /> </p>
 
+- 🔭 I’m currently learning on **University School Of Information Technology**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vonhatcuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vonhatcuong" height="30" width="40" /></a>
