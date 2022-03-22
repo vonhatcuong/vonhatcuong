@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Nhat Cuong</h1>
 <h3 align="center">A developer from VietNam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vonhatcuong" alt="vonhatcuong" /></a> </p>
-
 - 🔭 I’m currently learning on **University School Of Information Technology**
 
 - 🌱 I’m currently learning **web backend**
