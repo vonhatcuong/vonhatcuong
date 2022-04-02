@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I love knowledge and I want to learn about everything**
 <h3 align="left">Dev card</h3>
 <p align="center">
-  <a href="https://app.daily.dev/Nhatcuong221192"><img src="https://api.daily.dev/devcards/5c6262549df6425aa2c4078afc74d8ae.png?r=zhm" width="400" alt="Vo Nhat Cuong's Dev Card"/></a>
+ <a href="https://app.daily.dev/Nhatcuong221192"><img src="https://api.daily.dev/devcards/5c6262549df6425aa2c4078afc74d8ae.png?r=dt2" width="400" alt="Vo Nhat Cuong's Dev Card"/></a>
   </p>
 
 <h3 align="left">Connect with me:</h3>
