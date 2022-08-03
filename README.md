@@ -2,7 +2,7 @@
 <h3 align="center">A developer from VietNam</h3>
 
 
-- 🔭 I’m currently learning on **University School Of Information Technology**
+- 🔭 I’m currently learning on **University of Information Technology - VNUHCM**
 
 - 🌱 I’m currently learning **web backend**
 
