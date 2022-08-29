@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web backend**
 
-- 📫 How to reach me **19520440@gm.uit.edu.vn**
+- 📫 How to reach me **vonhatcuongyy@gmail.com**
 
 - ⚡ Fun fact **I love knowledge and I want to learn about everything**
 
