@@ -2,9 +2,9 @@
 <h3 align="center">A developer from VietNam</h3>
 
 
-- 🔭 I’m currently learning on **University of Information Technology - VNUHCM**
+- 🔭 I'm a student at [UIT-VNUHCM](https://uit.edu.vn).
 
-- 🌱 I’m currently learning **web backend**
+- 🌱 I’m currently learning more about DevOps and Cloud computing.
 
 - 📫 How to reach me **vonhatcuongyy@gmail.com**
 
