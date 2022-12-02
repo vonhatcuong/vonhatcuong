@@ -23,11 +23,7 @@
 <h3 align="left">Dev card</h3> <p align="center"> <a href="https://app.daily.dev/Nhatcuong221192"><img src="https://api.daily.dev/devcards/5c6262549df6425aa2c4078afc74d8ae.png?r=1lo" width="400" alt="Vo Nhat Cuong's Dev Card"/></a> </p>
 <br>
 
-<br>
-<div align="center">
-  <a href="https://github.com/vonhatcuong">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonhatcuong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonhatcuong&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+
 
 </div>
   <div align="center">
