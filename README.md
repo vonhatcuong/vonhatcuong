@@ -20,11 +20,3 @@
 <h3 align="left">Dev card</h3> <p align="center"> <a href="https://app.daily.dev/Nhatcuong221192"><img src="https://api.daily.dev/devcards/5c6262549df6425aa2c4078afc74d8ae.png?r=1lo" width="400" alt="Vo Nhat Cuong's Dev Card"/></a> </p>
 <br>
 
-
-
-</div>
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
-  </div>
-  <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=vonhatcuong&theme=nord&column=7" >
