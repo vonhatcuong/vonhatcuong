@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vo Nhat Cuong</h1>
-<h3 align="center">A developer from VietNam</h3>
+<h3 align="center">A developer and Researcher from VietNam</h3>
 
 
-- 🔭 I'm a student at [UIT-VNUHCM](https://uit.edu.vn).
-
-- 🌱 I’m currently learning more about DevOps and Cloud computing.
+- 🌱 I’m currently learning more about AI and Web3.
 
 - 📫 How to reach me **vonhatcuongyy@gmail.com**
 
